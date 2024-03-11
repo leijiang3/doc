@@ -21,6 +21,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  INSTANCE: 'Writerside/hi'
+  ARTIFACT: 'webHelpHI2-all.zip'
+  DOCKER_VERSION: '233.14389'
+
 jobs:
   # Build job
   build:
