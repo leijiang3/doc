@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="China-Doc.md">
+        <toc-element topic="SignIn.md">
+            <toc-element topic="SignInFlow.md"/>
+            <toc-element topic="PostSignInFlow.md"/>
+        </toc-element>
+        <toc-element topic="VehicleRelationShip.md">
+            <toc-element topic="GlobalVehicleRelationShip.md"/>
+            <toc-element topic="NewbieVehicleRelationShip.md">
+            </toc-element>
+        </toc-element>
+    </toc-element>
+</instance-profile>
