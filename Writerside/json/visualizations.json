@@ -1,0 +1,337 @@
+{
+  "Combinations": [
+    {
+      "VisualizedFeatures": {
+        "FuelportChargingport": "CB04",
+        "207": "CJ07",
+        "Gearlever": "DI03",
+        "SunRoof": "EV02",
+        "Ceiling": "FH01",
+        "Roof": "FN02",
+        "Grille": "GR08",
+        "Headlights": "JB0A",
+        "Foglight": "JT02",
+        "SoundSystem": "K502",
+        "FrontStorage": "K903",
+        "Mirror": "LF05",
+        "Decor": "NC0D",
+        "SeatCount": "NP02",
+        "InteriorIllumination": "PD02",
+        "Rims": "R171",
+        "SteeringWheel": "RU0A",
+        "EngineType": "T101",
+        "EngineEmblem": "T21A",
+        "Handles": "TC06",
+        "Skidplate": "TJ02",
+        "Decorsidewindow": "TM04",
+        "Rails": "TP05",
+        "Salesversion": "R6",
+        "Transmission": "E",
+        "SteeringType": "1",
+        "Color": "70700",
+        "Upholstery": "RB0000"
+      },
+      "VisualizedFeatureIcons": {
+        "Gearlever": "{baseUrl}/image/v2/icons/MY21_2017/536/104/E/DI03.{format}?client=vocapp",
+        "Decor": "{baseUrl}/image/v2/icons/MY21_2017/536/101/NC0D.{format}?client=vocapp",
+        "Rims": "{baseUrl}/image/v2/icons/MY21_2017/536/102/R171.{format}?client=vocapp",
+        "SteeringWheel": "{baseUrl}/image/v2/icons/MY21_2017/536/105/RU0A.{format}?client=vocapp",
+        "Color": "{baseUrl}/image/v2/icons/MY21_2017/536/10/70700.{format}?client=vocapp",
+        "Upholstery": "{baseUrl}/image/v2/icons/MY21_2017/536/11/RB0000.{format}?client=vocapp"
+      },
+      "Views": {
+        "exterior": {
+          "UrlTemplate": "{baseUrl}/image/dynamic/MY21_2017/536/exterior-v1/R6/70700/R171/FN02/_/TC06/TP05/_/JT02/GR08/T101/TJ02/TM04/_/CB04/EV02/JB0A/T21A/LF05/_/_/_/_/_/_/_/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2756
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default",
+                "Grille",
+                "Headlights",
+                "Taillight",
+                "FrontRim",
+                "RearWindowTrim",
+                "SideModelpage",
+                "Banner"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "1",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "100",
+                "103",
+                "104",
+                "105",
+                "106",
+                "107"
+              ]
+            },
+            "bg": {
+              "Required": false,
+              "Values": [
+                "descriptive-studio"
+              ]
+            }
+          }
+        },
+        "interior": {
+          "UrlTemplate": "{baseUrl}/image/dynamic/MY21_2017/536/interior-v2/R6/E/RB0000/NC0D/DI03/RU0A/_/PD02/NP02/CB04/EV02/K502/K903/FH01/_/_/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2756
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "0"
+              ]
+            }
+          }
+        },
+        "drivers-view": {
+          "UrlTemplate": "{baseUrl}/image/dynamic/MY21_2017/536/drivers-view-v2/R6/E/RB0000/NC0D/DI03/RU0A/_/PD02/NP02/CB04/EV02/K502/K903/FH01/_/_/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2756
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default",
+                "GearShift",
+                "SteeringWheel"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "0",
+                "100"
+              ]
+            }
+          }
+        },
+        "rear-view": {
+          "UrlTemplate": "{baseUrl}/image/dynamic/MY21_2017/536/rear-view-v2/R6/E/RB0000/NC0D/DI03/PD02/NP02/CB04/EV02/FH01/_/_/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2756
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default",
+                "Fabric"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "0",
+                "100"
+              ]
+            }
+          }
+        },
+        "deco-view": {
+          "UrlTemplate": "{baseUrl}/image/dynamic/MY21_2017/536/deco-view-v1/RB0000/NC0D/PD02/NP02/CB04/EV02/K502/FH01/_/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2756
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "0"
+              ]
+            }
+          }
+        },
+        "seat-view": {
+          "UrlTemplate": "{baseUrl}/image/dynamic/MY21_2017/536/seat-view-v1/RB0000/NP02/CB04/_/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2756
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "0"
+              ]
+            }
+          }
+        },
+        "top-view": {
+          "UrlTemplate": "{baseUrl}/image/stateful/MY21_2017/536/top-view-v1/R6/1/70700/RB0000/NC0D/FN02/TP05/CB04/EV02/T21A/LF05/_/CJ07/{profile}.{format}?market=cn&client=vocapp",
+          "Resolution": {
+            "Width": 4898,
+            "Height": 2796
+          },
+          "UrlTemplateParameters": {
+            "profile": {
+              "Required": true,
+              "Values": [
+                "default",
+                "basecar",
+                "fuelportclosed",
+                "fuelportopen",
+                "lfdc",
+                "rfdc",
+                "lbdc",
+                "rbdc",
+                "lfdo",
+                "rfdo",
+                "lbdo",
+                "rbdo",
+                "bdc",
+                "bdo",
+                "lmcdc",
+                "lmodc",
+                "lmcdo",
+                "lmodo",
+                "rmcdc",
+                "rmodc",
+                "rmcdo",
+                "rmodo",
+                "roof",
+                "cblcharged",
+                "cblcharging",
+                "cblerror",
+                "cblpaused",
+                "cblplugged",
+                "cblscheduled",
+                "aircleaning",
+                "aircleaning1",
+                "aircleaning2",
+                "aircleaning3",
+                "aircleaning4",
+                "alarmindicator",
+                "exteriorlights",
+                "interiorlights",
+                "cooling1",
+                "cooling2",
+                "cooling3",
+                "cooling4",
+                "heating1",
+                "heating2",
+                "heating3",
+                "heating4",
+                "unknown1",
+                "unknown2",
+                "unknown3",
+                "unknown4",
+                "windowlfdc",
+                "windowrfdc",
+                "windowlbdc",
+                "windowrbdc",
+                "windowlfdo",
+                "windowrfdo",
+                "windowlbdo",
+                "windowrbdo",
+                "windowroof"
+              ]
+            }
+          },
+          "QueryParameters": {
+            "angle": {
+              "Required": false,
+              "Values": [
+                "0"
+              ]
+            }
+          }
+        }
+      }
+    }
+  ],
+  "UrlTemplateParameters": {
+    "baseUrl": {
+      "Required": true,
+      "Values": [
+        "https://cas.volvocars.com.cn"
+      ]
+    },
+    "format": {
+      "Required": true,
+      "Values": [
+        "jpg",
+        "png"
+      ]
+    }
+  },
+  "QueryParameters": {
+    "w": {
+      "Required": false,
+      "Values": [
+        "88",
+        "375",
+        "435",
+        "600",
+        "750",
+        "768",
+        "870",
+        "1200",
+        "1280",
+        "1536",
+        "1920",
+        "2560",
+        "3840",
+        "4898"
+      ]
+    },
+    "bg": {
+      "Required": false,
+      "Values": [
+        "00000000",
+        "ffffff"
+      ]
+    }
+  },
+  "Errors": []
+}

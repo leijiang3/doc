@@ -1,9 +1,5 @@
 # SignInFlow
 
-> Current
->
-{style="note"}
-
 ```plantuml
 @startmindmap
 * SignInUseCase
@@ -21,7 +17,7 @@
             * Fetch Global Configuration
 
 @endmindmap
-
 ```
+
 
 Start typing here...

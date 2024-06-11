@@ -10,4 +10,112 @@
         <description>Created after removal of "SignIn" from Help Instance</description>
         <accepts>SignIn.html</accepts>
     </rule>
+    <rule id="639d426c">
+        <description>Created after removal of "email" from Help Instance</description>
+        <accepts>email.html</accepts>
+    </rule>
+    <rule id="6a34f78e">
+        <description>Created after removal of "GuideLine" from Help Instance</description>
+        <accepts>GuideLine.html</accepts>
+    </rule>
+    <rule id="74b13dac">
+        <description>Created after removal of "HarmonyOSNext" from Help Instance</description>
+        <accepts>HarmonyOSNext.html</accepts>
+    </rule>
+    <rule id="4b459daf">
+        <description>Created after removal of "Empty MD Topic" from Help Instance</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="4e66532">
+        <description><![CDATA[Created after removal of "<Application-Decouple.md>" from Help Instance]]></description>
+        <accepts>Application-Decouple.html</accepts>
+    </rule>
+    <rule id="1dd9043d">
+        <description>Created after removal of "vocapplication" from Help Instance</description>
+        <accepts>vocapplication.html</accepts>
+    </rule>
+    <rule id="6045894f">
+        <description>Created after removal of "Add Vconsole" from Help Instance</description>
+        <accepts>Add-Vconsole.html</accepts>
+    </rule>
+    <rule id="163073dd">
+        <description>Created after removal of "Vue Learning" from Help Instance</description>
+        <accepts>Vue-Learning.html</accepts>
+    </rule>
+    <rule id="1b019266">
+        <description>Created after removal of "Home Page" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="11585f2f">
+        <description>Created after removal of "WXEntryActivity" from Help Instance</description>
+        <accepts>WXEntryActivity.html</accepts>
+    </rule>
+    <rule id="561f156f">
+        <description>Created after removal of "se.volvo.vcc" from Help Instance</description>
+        <accepts>se-volvo-vcc.html</accepts>
+    </rule>
+    <rule id="5cf22a2d">
+        <description>Created after removal of "cn.volvo.vcc.wxapi" from Help Instance</description>
+        <accepts>cn-volvo-vcc-wxapi.html</accepts>
+    </rule>
+    <rule id="34e39c1">
+        <description>Created after removal of "Code merge differ" from Help Instance</description>
+        <accepts>Code-merge-differ.html</accepts>
+    </rule>
+    <rule id="ef48509">
+        <description>Created after removal of "Android-Charger" from Help Instance</description>
+        <accepts>Android-Charger.html</accepts>
+    </rule>
+    <rule id="c062988">
+        <description>Created after removal of "iOS-Charger" from Help Instance</description>
+        <accepts>iOS-Charger.html</accepts>
+    </rule>
+    <rule id="18a7aa03">
+        <description>Created after removal of "Charger" from Help Instance</description>
+        <accepts>Charger.html</accepts>
+    </rule>
+    <rule id="1b49610f">
+        <description>Created after removal of "Navigation" from Help Instance</description>
+        <accepts>Navigation.html</accepts>
+    </rule>
+    <rule id="383bb354">
+        <description>Created after removal of "SignInFlow" from Help Instance</description>
+        <accepts>SignInFlow.html</accepts>
+    </rule>
+    <rule id="5add2851">
+        <description>Created after removal of "PostSignInFlow" from Help Instance</description>
+        <accepts>PostSignInFlow.html</accepts>
+    </rule>
+    <rule id="14130571">
+        <description>Created after removal of "SignIn" from Help Instance</description>
+        <accepts>SignIn.html</accepts>
+    </rule>
+    <rule id="3228782d">
+        <description>Created after removal of "GlobalVehicleRelationShip" from Help Instance</description>
+        <accepts>GlobalVehicleRelationShip.html</accepts>
+    </rule>
+    <rule id="2a988320">
+        <description>Created after removal of "NewbieVehicleRelationShip" from Help Instance</description>
+        <accepts>NewbieVehicleRelationShip.html</accepts>
+    </rule>
+    <rule id="5abef88a">
+        <description>Created after removal of "VehicleRelationShip" from Help Instance</description>
+        <accepts>VehicleRelationShip.html</accepts>
+    </rule>
+    <rule id="375f8704">
+        <description>Created after removal of "FailureRequest" from Help Instance</description>
+        <accepts>FailureRequest.html</accepts>
+    </rule>
+    <rule id="56e2cd7d">
+        <description>Created after removal of "China-UT-Failure" from Help Instance</description>
+        <accepts>China-UT-Failure.html</accepts>
+    </rule>
+    <rule id="30c6298c">
+        <description><![CDATA[Created after removal of "<Unit-Test-Failure.md>" from Help Instance]]></description>
+        <accepts>Unit-Test-Failure.html</accepts>
+    </rule>
+    <rule id="4f2dfb64">
+        <description>Created after removal of "SingleUser" from Help Instance</description>
+        <accepts>SingleUser.html</accepts>
+    </rule>
 </rules>
